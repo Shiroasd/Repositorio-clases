@@ -1,0 +1,50 @@
+# IDEs y Editores
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# Build tools y artefactos compilados (Maven / Gradle / Java)
+target/
+build/
+out/
+bin/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Node / Frontend (si aplica)
+node_modules/
+dist/
+.npm/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Variables de entorno y secretos (NUNCA SUBIR AL REPOSITORIO)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.json
+secrets.yaml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
