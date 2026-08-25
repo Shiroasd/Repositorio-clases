@@ -1,7 +1,7 @@
 # DSY1107 · Repositorio del Estudiante
 
 **Asignatura:** DSY1107  
-**Sección:** 003D  
+**Sección:** 002D  
 **Estudiante:** Gaspar Toro  
 **Package raíz personal:** `cl.duoc.gtoro`
 
